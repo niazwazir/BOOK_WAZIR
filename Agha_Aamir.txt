@@ -1,7 +1,0 @@
-1)	Discovery and prediction capabilities in metal-based nanomaterials: An overview of the application of machine learning techniques and some recent advances
-2)	Mining structure-property linkage in nanoporous materials using an interpretative deep learning approach
-3)	Machine vision-driven automatic recognition of particle size and morphology in SEM images
-4)	A deep learning approach using synthetic images for segmenting and estimating 3D orientation of nanoparticles in EM images
-5)	Statistically Representative Metrology of Nanoparticles via Unsupervised Machine Learning of TEM Images
-6)	Discovery and prediction capabilities in metal-based nanomaterials: An overview of the application of machine learning techniques and some recent advances
-7)	Classifying nanostructured and heterogeneous materials from transmission electron microscopy images using convolutional neural networks
